@@ -20,7 +20,7 @@ public class CourseController {
 	@Autowired
 	CourseService courseService;
 
-	
+	//get courses
 	@GetMapping("/courses")
 	public ResponseEntity<List<Course>> getCourses(){
 		
