@@ -1,0 +1,6 @@
+The classes with annotations 
+@Service
+@RestController
+@Repository
+@Entity
+@Bean
